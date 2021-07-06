@@ -1,0 +1,172 @@
+
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+h1{
+    font-size: 50px;
+}
+
+h2{
+    font-size: 40px;
+}
+
+
+.color-span{
+    color: #1E90FF;
+}
+
+/* Header Section */
+
+.header-section{
+    display: flex;
+}
+
+.header-style{
+    text-align: right;
+    height: 60px;
+    width: 100%;
+    padding-top: 30px;
+    padding-right: 40px;
+}
+
+header a{
+    text-decoration: none;
+    padding: 20px;
+    width: 700;
+}
+
+
+/*link button style*/
+
+.link-button{
+    background-image: linear-gradient( #7FFFD4, #1E90FF);
+    padding: 15px 40px;
+    color: white;
+    text-decoration: none;
+    border-radius: 20px;
+    box-shadow: 5px 5px 15px #75b1ee;
+    font-weight: 700;
+   
+}
+
+#link-button{
+    background-image: linear-gradient( #7FFFD4, #1E90FF);
+    padding: 10px 20px;
+    color: white;
+    text-decoration: none;
+    border-radius: 7px;
+    font-weight: 700;
+}
+
+.buttom-mar{
+    margin-bottom: 60px;
+}
+
+/* Div Style*/
+
+.flex-section{
+    display: flex;
+    margin-bottom: 150px;
+    
+}
+
+.flex-section-banner{
+    background-image: url(/images/baground.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    
+}
+
+.common-div-style{
+    width: 50%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+#food-img{
+    width: 80%;
+}
+
+#img-position{
+    margin-top: 50px;
+    margin-left: 160px;
+    height: 500px;
+    width: 330px;
+}
+
+
+/*recipi-section*/
+
+.recipi{
+    text-align: center;
+}
+
+.box-shadow{
+    width: 25%;
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 6%;
+    border-radius: 20px;
+}
+
+.box-shadow img{
+    display: flex;
+    height: 250px;
+    width: 295px;
+    margin: 20px;
+    text-align: center;
+}
+
+.box-shadow h2{
+    padding-left: 20px;
+    font-size: 30px;
+}
+
+.box-shadow p{
+    margin: 20px;
+}
+
+/*Buttom bar Section*/
+.buttom-bar-box{
+    width: 100%;
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 20px;
+    
+}
+
+.box-txt{
+    padding-left: 120px;
+    margin: 20px;
+}
+
+.boxt-align-center{
+    display: inline-flex;
+    margin-left: 60px;
+}
+
+.box-txt h1{
+    margin-top: 20px;
+    margin-bottom: -10px;
+}
+
+
+
+/*footer-section*/
+
+.footer-section{
+    background-color: black;
+}    
+
+.footer-class{
+    text-align: center;
+    padding: 20px;
+    color: white;
+}
+
+
+
