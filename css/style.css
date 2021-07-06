@@ -75,7 +75,7 @@ header a{
 }
 
 .flex-section-banner{
-    background-image: url(images/baground.jpg);
+    background-image: url("images/baground.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
